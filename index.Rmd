@@ -1,28 +1,37 @@
 ---
 title: "Saleema Mohamed"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## About
 
-## R Markdown
+Describe who you are. For example, what you are currently studying.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Summarize your trajectory. You could mention what you've done. Like what you've stud\
+ied or where you've worked.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Interests
 
-```{r cars}
-summary(cars)
-```
+* Interest 1
+* Interest 2
+* etc
 
-## Including Plots
+## Projects
 
-You can also embed plots, for example:
+* List some of your recent projects
+* You could include this website as a project!
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Profiles 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+* ...
+* [GitHub](http://github.com/username)
+
+## Contact
+
+* [youremail@email](mailto:youremail@email)
